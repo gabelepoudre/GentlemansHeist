@@ -1,8 +1,8 @@
-# Untitled-CMPT306-Project
-Group 3's final project for CMPT306
+# Gentleman's Heist
+###  University Group Project: Unity Game
 
-Hope everyone can find and use this repo easily.
-Many of us (myself included) are unfamiliar with Git. As a learning exercise, please add your name to the Sign-in-sheet.cs script in the test project and push it to the main branch.
-For managing pushes, pulls, etc I suggest using GitHub Desktop, but feel free to use whatever Git you like.
+Developed from my student GitHub account [here](https://struboat.itch.io/gentlemansheist).
 
-Looking forward to working with you all!
+An uploaded version of the game can be played [here](https://github.com/gjl774/Untitled-CMPT306-Project/tree/feature_Alpha!).
+
+Built for Unity 2020.3.18f1 
