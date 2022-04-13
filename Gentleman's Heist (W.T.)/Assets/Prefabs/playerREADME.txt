@@ -1,0 +1,1 @@
+GABE: v1.1 introduces a better collider for more accurate detection etc  

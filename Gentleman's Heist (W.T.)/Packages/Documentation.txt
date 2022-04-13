@@ -1,0 +1,31 @@
+Benjamin Fehr 11231846
+
+Technical Documentation for A* pathfinding
+
+*running with maximise on play turned will likley cause ui issues*
+
+
+Buttons displayed on the side of the screen can to control the A* demonstration
+
+Start Goal and obstacle buttons will turn mouse click on the tiles into their respective buttons tiles
+
+Start will place the green starting point
+
+Goal will place the red ending point
+
+obstacle will place an obstacle that the algorithm will navigate around (currently this button will place empty spaces but is still treated as an obstacle)
+
+Step by Step with progress the algorithm a step at a time with each press (this can only be seen if show path if toggled)
+
+Go will proceed with the entire algorithm and show the character walking the path generated
+
+reset will clear everything
+
+show path displays the algorithm and final path the character will take
+
+
+
+
+An important note is that this algorithm and tilemap uses "2D Tilemap Extras" package which should be provide in the zip file please make sure it is installed before running
+
+Walkthrough followed for A* and tilemap setup https://www.youtube.com/playlist?list=PLX-uZVK_0K_6GjJ_tgg1YXmO8lor7sRM7
